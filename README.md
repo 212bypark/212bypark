@@ -6,3 +6,12 @@ I am a student developer studying in 42Seoul
 
 [![bypark's 42 stats](https://badge42.herokuapp.com/api/stats/bypark)](https://github.com/bypark/badge42)
 
+<table>
+	<td valign="top" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api?username=212bypark&show_icons=true&count_private=true&hide_border=true" style="height: 150px"/>
+	</td>
+	<td valign="top" width="50%">
+		<a href="https://solved.ac/profile/bwpark212">
+		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bwpark212" style="height: 200px"/>
+	</td>
+</table>
