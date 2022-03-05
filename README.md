@@ -17,8 +17,3 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=212bypark" style="height: 200px"/>
 	</td>
 </table>
-
-## BOJ Stats
-
-<a href="https://solved.ac/profile/bwpark212">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bwpark212" style="height: 200px"/>
