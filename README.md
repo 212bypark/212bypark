@@ -4,9 +4,6 @@
 
 - I am a student developer studying in 42Seoul.
 
-## 42Seoul Stats
-
-[![bypark's 42 stats](https://badge42.herokuapp.com/api/stats/bypark)](https://github.com/bypark/badge42)
 
 ## Github Stats
 
